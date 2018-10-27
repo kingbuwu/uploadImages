@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "多张图片上传",
+  "usingComponents": {
+    "uploadImages": "/component/uploadImages/index"
+  }
+}
