@@ -1,4 +1,3 @@
-# uploadImages
 uploadImages 微信小程序上传多张图片
 ====================
 # 使用需要填写uploadImgUrl
